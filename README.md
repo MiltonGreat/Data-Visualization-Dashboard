@@ -1,6 +1,6 @@
 # Data Visualization Portfolio
 
-Welcome to my data visualization portfolio! In this repository, you will find examples of my work in creating insightful and interactive dashboards using four different tools: Microsoft Excel, Power BI, Tableau, and Python. These projects demonstrate my ability to analyze, transform, and visualize data in a meaningful way. Below are links to each of the individual dashboards.
+In this repository, you will find examples of my work in creating insightful and interactive dashboards using four different tools: Microsoft Excel, Power BI, Tableau, and Python. These projects demonstrate my ability to analyze, transform, and visualize data in a meaningful way. Below are links to each of the individual dashboards.
 
 ### Project Links
 
@@ -25,6 +25,34 @@ Welcome to my data visualization portfolio! In this repository, you will find ex
 4. Python Dashboard
 - Description: A Python-based data visualization project that uses libraries like Matplotlib, Seaborn, and Plotly to build rich visualizations. This project also highlights my skills in data preprocessing and analysis using Pandas.
 - Link: Python Dashboard (https://github.com/MiltonGreat/Employee-Attrition-Dashboard.git)
+
+### Dataset
+
+The Healthcare Employee Attrition Dataset, while synthetic, is modeled after real-world data and has been tailored to reflect the unique environment of the healthcare sector. The dataset also includes various employee characteristics and job details that are critical for identifying patterns in employee behavior.
+
+Here are some of the key columns present in this dataset:
+
+- EmployeeID: A unique identifier for each employee.
+- Age: The age of the employee.
+- Attrition: Whether the employee has left the company (1) or stayed (0). This is a binary column (Yes/No).
+- BusinessTravel: The frequency of business travel (e.g., “Travel_Rarely”, “Travel_Frequently”, “Non-Travel”).
+- DailyRate: The daily rate of pay for the employee.
+- Department: The department to which the employee belongs (e.g., “Cardiology”, “Maternity”, “Neurology”).
+- DistanceFromHome: The distance (in miles) between the employee’s home and the office.
+- Education: The employee’s level of education (e.g., “1” might indicate a high school diploma, “2” might indicate a bachelor’s degree, etc.).
+- EducationField: The field of study or specialization (e.g., “Life Sciences”, “Medical”, “Other”).
+- Gender: The gender of the employee (e.g., “Male”, “Female”).
+- JobRole: The employee’s job role (e.g., “Nurse”, “Therapist”, “Administrative”).
+- JobSatisfaction: A measure of the employee’s job satisfaction (on a scale of 1-4).
+- MaritalStatus: The marital status of the employee (e.g., “Married”, “Single”).
+- MonthlyIncome: The monthly income of the employee.
+- OverTime: Whether the employee works overtime (Yes/No).
+- PerformanceRating: A score representing the employee’s performance.
+- RelationshipSatisfaction: The employee’s satisfaction with their relationship with colleagues (on a scale of 1-4).
+- TotalWorkingYears: The total number of years the employee has worked (in all jobs).
+- WorkLifeBalance: The employee’s work-life balance rating (on a scale of 1-4).
+- YearsAtCompany: The number of years the employee has been with the current company.
+- YearsInCurrentRole: The number of years the employee has spent in their current job role.
 
 ### Key Skills & Techniques
 
