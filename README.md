@@ -1,4 +1,4 @@
-# Data Visualization Dashboards in Excel, Power BI, and Tableau
+# Data Visualization in Excel, Power BI, and Tableau
 
 In this repository, you will find examples of my work in creating insightful and interactive dashboards using four different tools: Microsoft Excel, Power BI, Tableau, and Python. These projects demonstrate my ability to analyze, transform, and visualize data in a meaningful way. Below are links to each of the individual dashboards.
 
